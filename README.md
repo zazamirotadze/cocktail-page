@@ -1,1 +1,1 @@
-live link (ლაივის ლინკი) - https://courageous-moonbeam-1f370c.netlify.app/ This is a react static web page. I have used fetch api to bring some data. ეს რეაქტის უძრავი გვერდია. მე გამოვიყენე აიაქსი, რომ მომეტანა რაღაც მონაცემები.
+live link (ლაივის ლინკი) - https://courageous-moonbeam-1f370c.netlify.app/ This is a react static web page. I have used fetch api to bring some data. ეს რეაქტის უძრავი გვერდია. მე გამოვიყენე fetch მეთოდი, რომ მომეტანა რაღაც მონაცემები.
